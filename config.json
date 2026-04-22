@@ -1,0 +1,18 @@
+{
+    "code": "guest_order_query",
+    "name": {
+        "zh_cn": "游客订单查询",
+        "en": "Guest Order Query"
+    },
+    "description": {
+        "zh_cn": "游客无需登录即可通过订单号、邮箱、手机号、姓名、地址多维度查询订单状态",
+        "en": "Guest order inquiry without login - query by order number, email, phone, name or address"
+    },
+    "type": "feature",
+    "version": "v1.0.0",
+    "icon": "/image/logo.png",
+    "author": {
+        "name": "beikeshop.com",
+        "email": "admin@beikeshop.com"
+    }
+}
